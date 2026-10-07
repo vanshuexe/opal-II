@@ -21,9 +21,9 @@ import { MarqueeBanner } from '../components/MarqueeBanner';
 export const AboutPage: React.FC = () => {
   const stats = [
     { number: '2019', label: 'Founded in Mumbai' },
-    { number: '150+', label: 'Curated Residences & Spaces' },
+    { number: '50+', label: 'Curated Residences & Spaces' },
     { number: '100%', label: 'Bespoke Craftsmanship' },
-    { number: '1', label: 'Seamless Design Experience' },
+    { number: '5', label: 'Design Experience' },
   ];
 
   const coreServices = [
